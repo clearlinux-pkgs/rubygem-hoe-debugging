@@ -4,7 +4,7 @@
 #
 Name     : rubygem-hoe-debugging
 Version  : 1.2.1
-Release  : 7
+Release  : 8
 URL      : https://rubygems.org/downloads/hoe-debugging-1.2.1.gem
 Source0  : https://rubygems.org/downloads/hoe-debugging-1.2.1.gem
 Summary  : No detailed summary available
@@ -64,35 +64,10 @@ popd
 
 %files
 %defattr(-,root,root,-)
-/usr/lib64/ruby/gems/2.2.0/cache/hoe-debugging-1.2.1.gem
-/usr/lib64/ruby/gems/2.2.0/doc/hoe-debugging-1.2.1/ri/Hoe/Debugging/ValgrindHelper/cdesc-ValgrindHelper.ri
-/usr/lib64/ruby/gems/2.2.0/doc/hoe-debugging-1.2.1/ri/Hoe/Debugging/ValgrindHelper/directory-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/hoe-debugging-1.2.1/ri/Hoe/Debugging/ValgrindHelper/ensure_directory_exists-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/hoe-debugging-1.2.1/ri/Hoe/Debugging/ValgrindHelper/formatted_ruby_version-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/hoe-debugging-1.2.1/ri/Hoe/Debugging/ValgrindHelper/matching_suppression_file-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/hoe-debugging-1.2.1/ri/Hoe/Debugging/ValgrindHelper/new-c.ri
-/usr/lib64/ruby/gems/2.2.0/doc/hoe-debugging-1.2.1/ri/Hoe/Debugging/ValgrindHelper/parse_suppressions_from-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/hoe-debugging-1.2.1/ri/Hoe/Debugging/ValgrindHelper/project_name-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/hoe-debugging-1.2.1/ri/Hoe/Debugging/ValgrindHelper/save_suppressions_from-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/hoe-debugging-1.2.1/ri/Hoe/Debugging/ValgrindHelper/valgrind-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/hoe-debugging-1.2.1/ri/Hoe/Debugging/ValgrindHelper/version_matches-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/hoe-debugging-1.2.1/ri/Hoe/Debugging/cdesc-Debugging.ri
-/usr/lib64/ruby/gems/2.2.0/doc/hoe-debugging-1.2.1/ri/Hoe/Debugging/gdb_options-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/hoe-debugging-1.2.1/ri/Hoe/Debugging/hoe_debugging_check_for_suppression_file-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/hoe-debugging-1.2.1/ri/Hoe/Debugging/hoe_debugging_command-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/hoe-debugging-1.2.1/ri/Hoe/Debugging/hoe_debugging_make_test_cmd-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/hoe-debugging-1.2.1/ri/Hoe/Debugging/hoe_debugging_ruby-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/hoe-debugging-1.2.1/ri/Hoe/Debugging/hoe_debugging_run_valgrind-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/hoe-debugging-1.2.1/ri/Hoe/Debugging/hoe_debugging_valgrind_helper-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/hoe-debugging-1.2.1/ri/Hoe/Debugging/valgrind_options-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/hoe-debugging-1.2.1/ri/Hoe/cdesc-Hoe.ri
-/usr/lib64/ruby/gems/2.2.0/doc/hoe-debugging-1.2.1/ri/cache.ri
-/usr/lib64/ruby/gems/2.2.0/doc/hoe-debugging-1.2.1/ri/page-CHANGELOG_rdoc.ri
-/usr/lib64/ruby/gems/2.2.0/doc/hoe-debugging-1.2.1/ri/page-Manifest_txt.ri
-/usr/lib64/ruby/gems/2.2.0/doc/hoe-debugging-1.2.1/ri/page-README_rdoc.ri
-/usr/lib64/ruby/gems/2.2.0/gems/hoe-debugging-1.2.1/CHANGELOG.rdoc
-/usr/lib64/ruby/gems/2.2.0/gems/hoe-debugging-1.2.1/Manifest.txt
-/usr/lib64/ruby/gems/2.2.0/gems/hoe-debugging-1.2.1/README.rdoc
-/usr/lib64/ruby/gems/2.2.0/gems/hoe-debugging-1.2.1/Rakefile
-/usr/lib64/ruby/gems/2.2.0/gems/hoe-debugging-1.2.1/lib/hoe/debugging.rb
-/usr/lib64/ruby/gems/2.2.0/specifications/hoe-debugging-1.2.1.gemspec
+/usr/lib64/ruby/gems/2.3.0/cache/hoe-debugging-1.2.1.gem
+/usr/lib64/ruby/gems/2.3.0/gems/hoe-debugging-1.2.1/CHANGELOG.rdoc
+/usr/lib64/ruby/gems/2.3.0/gems/hoe-debugging-1.2.1/Manifest.txt
+/usr/lib64/ruby/gems/2.3.0/gems/hoe-debugging-1.2.1/README.rdoc
+/usr/lib64/ruby/gems/2.3.0/gems/hoe-debugging-1.2.1/Rakefile
+/usr/lib64/ruby/gems/2.3.0/gems/hoe-debugging-1.2.1/lib/hoe/debugging.rb
+/usr/lib64/ruby/gems/2.3.0/specifications/hoe-debugging-1.2.1.gemspec
