@@ -4,7 +4,7 @@
 #
 Name     : rubygem-hoe-debugging
 Version  : 1.2.1
-Release  : 8
+Release  : 9
 URL      : https://rubygems.org/downloads/hoe-debugging-1.2.1.gem
 Source0  : https://rubygems.org/downloads/hoe-debugging-1.2.1.gem
 Summary  : No detailed summary available
